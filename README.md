@@ -70,5 +70,5 @@ Database integration
 👩‍💻 Author
 
 Fernanda Marques
-GitHub: https://github.com/NandaTechLabs
+GitHub: https://github.com/NandaAtenaTec
 
